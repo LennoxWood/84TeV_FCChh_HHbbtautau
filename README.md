@@ -2,6 +2,9 @@
 
 Please find within this depository the Jupyter notebooks used in the analysis of the MPhys project.
 
+Note that since the simulations used in the analysis of this project are not public to non-CERN members.
+These notebooks are here more to denote the model and how the analysis was done.
+
 The sparticles python package used to load the data from generated .h5 files can be found at https://github.com/jd550179/FCCHBBTAUTAU
 
 ## General

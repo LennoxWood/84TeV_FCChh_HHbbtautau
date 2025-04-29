@@ -4,6 +4,8 @@ Please find within this depository the Jupyter notebooks used in the analysis of
 
 The sparticles python package used to load the data from generated .h5 files can be found at https://github.com/jd550179/FCCHBBTAUTAU
 
+## General
+
 **InputVariables.ipynb** was used to generate the input variable plots.
 
 **FeaturesFromkFoldScore.ipynb** was used to generate the score threshold plots.

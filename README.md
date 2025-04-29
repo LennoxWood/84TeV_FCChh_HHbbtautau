@@ -6,7 +6,7 @@ InputVariables.ipynb was used to generate the input variable plots.
 
 FeaturesFromkFoldScore.ipynb was used to generate the score threshold plots.
 
-# 84 TeV
+## 84 TeV
 GATModel_CarlFold_84TeV.ipynb was used to generate the significances in the main section of the Results.
 
 mHH_star_84TeV.ipynb was used to generate the cuts on the m*_HH value.
